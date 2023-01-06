@@ -29,13 +29,13 @@ webServer:
 
 # This is the database setup for your server.
 database:
-  host: localhost
+  host: 144.24.151.239
   port: 8090
-  name: demo
+  name: email
   user: postgres
 
 # This is the setup for Redis.
 redis:
   enabled: false
-  host: localhost
+  host: 144.24.151.239
   port: 8091
